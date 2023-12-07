@@ -1,8 +1,8 @@
 
-final project - v10 2023-11-24 8:18pm
+final project - v11 2023-12-02 10:59am
 ==============================
 
-This dataset was exported via roboflow.com on November 24, 2023 at 12:19 PM GMT
+This dataset was exported via roboflow.com on December 2, 2023 at 3:04 AM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 1677 images.
+The dataset includes 2208 images.
 Food are annotated in YOLO v7 PyTorch format.
 
 The following pre-processing was applied to each image:
